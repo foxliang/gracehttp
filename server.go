@@ -214,4 +214,3 @@ func (srv *Server) logf(format string, args ...interface{}) {
 		log.Printf(format, args...)
 	}
 }
-

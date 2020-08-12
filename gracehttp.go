@@ -1,8 +1,8 @@
 package gracehttp
 
 import (
-"time"
-"net/http"
+	"net/http"
+	"time"
 )
 
 const (
